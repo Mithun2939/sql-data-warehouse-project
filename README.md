@@ -37,4 +37,4 @@ These insights empower stakeholders with mey business metrics, enabling strategi
 
 ## ⚔️About me 
 
-Hi there! I'm Mithun Kananathan, a third year CS student @ Western University. 
+Hi there! I'm Mithun Kananathan, a third year CS student @ Western University exploring the field of Data Analytics.
